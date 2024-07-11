@@ -10,6 +10,7 @@
 		"standard": "17.1.0"
   },
   "dependencies": {
+    "express": "^4.17.1"
   },
 	"eslintConfig": {
 		"extends": "standard"
